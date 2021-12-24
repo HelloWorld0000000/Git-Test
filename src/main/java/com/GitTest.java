@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master 分支第一次修改 Git");
         System.out.println("hot-fix 分支第二次修改 Git");
         System.out.println("master 分支第二次修改 Git");
+        System.out.println("hot-fix 分支第三次修改 Git");
     }
 }
